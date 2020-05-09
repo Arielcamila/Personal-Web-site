@@ -1,0 +1,66 @@
+body{
+  margin:0;
+  text-align: center;
+}
+
+h1{
+margin:0;
+font-family: 'Dancing Script', cursive;
+font-weight: 500;
+    line-height: 1.1;
+    color: #1eb2a6;
+
+}
+
+p
+{
+  margin: 0;
+}
+.leftcloud{
+position:absolute;
+top: 250px;
+
+
+}
+
+.rightcloud{
+  position: absolute;
+  left: 900px;
+  top: 80px;
+  bottom:300px;
+}
+
+
+.top-container{
+background-color: #beebe9;
+position: relative;
+width: 100%;
+padding-top: 100px;
+
+}
+
+.mountain
+{
+  text-align: center;
+  position: relative;
+  width: 100%;
+
+
+}
+.cloud-right{
+display: inline-block;
+position: relative;
+text-align: left;
+}
+.mid-container{
+
+}
+
+.myskill {
+  
+}
+
+.bottom-container{
+
+
+}
